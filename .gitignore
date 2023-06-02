@@ -1,0 +1,42 @@
+## IDE files ##
+
+*.ipr
+*.iws
+*.iml
+.idea/
+*.class
+
+
+## NodeJS files ##
+
+node_modules/
+
+
+
+## Builds files ##
+
+build/
+dist/
+target/
+
+
+## Generated files ##
+
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.exe
+*.dll
+*.so
+*.pdb
+*.lib
+
+## OS files ##
+
+.DS_Store
+Thumbs.db
+.env
